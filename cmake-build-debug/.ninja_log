@@ -1,0 +1,20 @@
+# ninja log v6
+27	647	7496890858306014	CMakeFiles/LibraryExercise.dir/Book.cpp.obj	fe6b2b5091e279a0
+17	661	7496890858205710	CMakeFiles/LibraryExercise.dir/Address.cpp.obj	655e927bdf34a8be
+12	662	7496890858154673	CMakeFiles/LibraryExercise.dir/PhoneNumber.cpp.obj	ae1fdcdd5cfe3b57
+4	767	7496890858081075	CMakeFiles/LibraryExercise.dir/main.cpp.obj	d4a1810f5cbeb1ff
+21	787	7496890858250375	CMakeFiles/LibraryExercise.dir/Library.cpp.obj	89e152d416e31c21
+4	487	7496892612696433	CMakeFiles/LibraryExercise.dir/main.cpp.obj	d4a1810f5cbeb1ff
+13	493	7496892612786552	CMakeFiles/LibraryExercise.dir/Library.cpp.obj	89e152d416e31c21
+18	470	7496894679314435	CMakeFiles/LibraryExercise.dir/PhoneNumber.cpp.obj	ae1fdcdd5cfe3b57
+26	476	7496894679398805	CMakeFiles/LibraryExercise.dir/Address.cpp.obj	655e927bdf34a8be
+39	476	7496894679530920	CMakeFiles/LibraryExercise.dir/Book.cpp.obj	fe6b2b5091e279a0
+32	666	7496894679461250	CMakeFiles/LibraryExercise.dir/Library.cpp.obj	89e152d416e31c21
+15	652	7496901746605321	CMakeFiles/LibraryExercise.dir/Address.cpp.obj	655e927bdf34a8be
+23	666	7496901746691031	CMakeFiles/LibraryExercise.dir/Book.cpp.obj	fe6b2b5091e279a0
+12	698	7496901746575317	CMakeFiles/LibraryExercise.dir/PhoneNumber.cpp.obj	ae1fdcdd5cfe3b57
+4	796	7496901746494934	CMakeFiles/LibraryExercise.dir/main.cpp.obj	d4a1810f5cbeb1ff
+19	859	7496901746646081	CMakeFiles/LibraryExercise.dir/Library.cpp.obj	89e152d416e31c21
+12	426	7496903214977908	CMakeFiles/LibraryExercise.dir/PhoneNumber.cpp.obj	ae1fdcdd5cfe3b57
+5	567	7496903214906239	CMakeFiles/LibraryExercise.dir/main.cpp.obj	d4a1810f5cbeb1ff
+19	623	7496903215049540	CMakeFiles/LibraryExercise.dir/Library.cpp.obj	89e152d416e31c21

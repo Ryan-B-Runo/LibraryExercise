@@ -1,0 +1,3 @@
+C:/dev/CSC122/LibraryExercise/cmake-build-debug/CMakeFiles/LibraryExercise.dir
+C:/dev/CSC122/LibraryExercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/CSC122/LibraryExercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
